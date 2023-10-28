@@ -8,6 +8,8 @@ using the `BLoC` for State Manager on the home screen.
 
 using the `cubit` for State Manager on the edit screen.
 
+using the `Hive` for Local NoSQL Database.
+
 ## Getting Started
 
 I use these packages | Dependencies in this project :
